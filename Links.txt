@@ -1,0 +1,7 @@
+links interessantes para saber mais sobre git/github:
+Download: https://git-scm.com/downloads
+Rafaella Ballerini - O QUE É GIT E GITHUB? - definição e conceitos importantes : <https://www.youtube.com/watch?v=DqTITcMq68k&ab_channel=RafaellaBallerini>
+
+Rafaella Ballerini - COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2: <https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini>
+
+Getting Git Right: https://www.atlassian.com/git
